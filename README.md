@@ -15,6 +15,8 @@
 
 cd snake_project/
 
+git checkout dev
+
 cd ProjectSnake/
 
 python3 ./main.py
